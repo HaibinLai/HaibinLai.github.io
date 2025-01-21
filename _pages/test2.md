@@ -4,8 +4,8 @@ title: "Haibin's Page"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /test/
-  - /test.html
+  - /test2/
+  - /test2.html
 ---
 
 
