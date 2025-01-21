@@ -1,3 +1,14 @@
+---
+permalink: /test
+title: "Haibin's Page"
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /test/
+  - /test.html
+---
+
+
 # SC 24 Passage
 
 My  summary and understanding of the papers presented at the SC24 conference.
