@@ -74,6 +74,9 @@ I have published 0 papers in system area. <a href='https://scholar.google.com/ci
 <canvas id="pdf-canvas" style="border: 1px solid;"></canvas>
 </div>
 
+<iframe src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="640" height="480"></iframe>
+
+
 <script>
 var url = 'https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf';
 
