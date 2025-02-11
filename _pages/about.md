@@ -78,7 +78,13 @@ I have published 0 papers in system area. <a href='https://scholar.google.com/ci
 
 <!-- <iframe src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf&embedded=true" style="width:500px; height:100px;" frameborder="0"></iframe>
   -->
-<iframe src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
+<!-- <iframe src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" style="width:600px; height:500px;" frameborder="0"></iframe> -->
+
+<script src="/js/pdfobject.js"></script>
+<script>PDFObject.embed("https://www.haibinlaiblog.top/wp-content/uploads/2025/01/ML_Essay_Haibin_Lai-13.pdf", "#example1");</script>
+
+
+<iframe src="https://www.haibinlaiblog.top/wp-content/uploads/2025/01/ML_Essay_Haibin_Lai-13.pdf" style="width:500px; height:100px;" frameborder="0"></iframe>
 
 <!-- <iframe src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="100%" height="600px" style="border: none;">
 This browser does not support PDFs
