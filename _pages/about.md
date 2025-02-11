@@ -67,6 +67,36 @@ I have published 0 papers in system area. <a href='https://scholar.google.com/ci
 
  [点击这里查看PDF文件](https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf)
 
+
+<script src="https://mozilla.github.io/pdf.js/build/pdf.js"></script>
+
+<div style="width: 100%; height: 600px;">
+<canvas id="pdf-canvas" style="border: 1px solid;"></canvas>
+</div>
+
+<script>
+var url = 'https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf';
+
+// 使用pdf.js渲染和显示PDF
+pdfjsLib.getDocument(url).promise.then(function(pdfDoc) {
+ var canvas = document.getElementById('pdf-canvas');
+ var context = canvas.getContext('2d');
+
+ // 获取PDF的第一页
+ pdfDoc.getPage(1).then(function(page) {
+   var viewport = page.getViewport({scale: 1});
+   canvas.height = viewport.height;
+   canvas.width = viewport.width;
+
+   // 渲染PDF页面到canvas
+   page.render({canvasContext: context, viewport: viewport});
+ });
+});
+</script>
+
+
+
+
 # 💻 Internships
 - *Aug 2024 - Present*, [Geochemistrypi](https://github.com/ZJUEarthData/Geochemistrypi), China.
 Online Intern, Zhejiang University DataEarth Lab
