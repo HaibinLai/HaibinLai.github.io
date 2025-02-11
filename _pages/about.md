@@ -80,6 +80,9 @@ I have published 0 papers in system area. <a href='https://scholar.google.com/ci
 This browser does not support PDFs
 </iframe> -->
 
+<center><embed src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="850" height="600"></center>
+ 
+
 <script>
 var url = 'https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf';
 
