@@ -68,19 +68,23 @@ I have published 0 papers in system area. <a href='https://scholar.google.com/ci
  [点击这里查看PDF文件](https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf)
 
 
-<script src="https://mozilla.github.io/pdf.js/build/pdf.js"></script>
+<!-- <script src="https://mozilla.github.io/pdf.js/build/pdf.js"></script> -->
 
 <div style="width: 100%; height: 600px;">
 <canvas id="pdf-canvas" style="border: 1px solid;"></canvas>
 </div>
 
-<iframe src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="640" height="480"></iframe>
+<!-- <iframe src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="640" height="480"></iframe> -->
+
+<!-- <iframe src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf&embedded=true" style="width:500px; height:100px;" frameborder="0"></iframe>
+  -->
+<iframe src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
 
 <!-- <iframe src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="100%" height="600px" style="border: none;">
 This browser does not support PDFs
 </iframe> -->
 
-<center><embed src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="850" height="600"></center>
+<!-- <center><embed src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="850" height="600"></center>
  
 
 <script>
@@ -101,7 +105,7 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc) {
    page.render({canvasContext: context, viewport: viewport});
  });
 });
-</script>
+</script> -->
 
 
 
