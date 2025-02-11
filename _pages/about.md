@@ -61,7 +61,7 @@ I have published 0 papers in system area. <a href='https://scholar.google.com/ci
  <!-- <embed src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="800px" height="600px" /> -->
 
 
-<iframe src="https://docs.google.com/viewer?url=https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
+<!-- <iframe src="https://docs.google.com/viewer?url=https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe> -->
 
 
 
@@ -76,6 +76,9 @@ I have published 0 papers in system area. <a href='https://scholar.google.com/ci
 
 <iframe src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="640" height="480"></iframe>
 
+<!-- <iframe src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="100%" height="600px" style="border: none;">
+This browser does not support PDFs
+</iframe> -->
 
 <script>
 var url = 'https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf';
