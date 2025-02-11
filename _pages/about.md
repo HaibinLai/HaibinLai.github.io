@@ -21,7 +21,7 @@ redirect_from:
 
 I am a Junior Turing Class student at SUSTech, majoring in Computer Science. Problem-solving is my lifelong delight. I am currently participating in research in the fields of Distributed Computing, GPU Computing, and High Performance Computing at the SUSTech HPC-Lab. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published 0 papers in system area. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -61,3 +61,58 @@ My research interest includes neural machine translation and computer vision. I 
 # 💻 Internships
 - *Aug 2024 - Present*, [Geochemistrypi](https://github.com/ZJUEarthData/Geochemistrypi), China.
 Online Intern, Zhejiang University DataEarth Lab
+
+
+<!-- 
+
+Main Structure
+
+1. My intro (short)
+  1.1 GPA 3.70
+  1.2 Distributed System, HPC, OS
+  1.3 Globus, HPC Lab, ZJU Data Earth
+  1.4 C++, Rust, Python
+
+2. pub
+  2.1 Graph HPC
+  2.2 Poster Hoomd-blue
+  2.3 Distributed ?
+
+3. intern
+  - research
+  3.1 Globus Lab
+  3.2 SUSTech HPC Lab
+  3.3 ZJU Data Earth
+  - industry
+  3.4 Sunway
+  3.5 ??? Company
+
+4. project
+  4.1 OpenCV Project
+  4.2 OS Project
+  4.3 ML Project
+  4.4 CPU Project
+  4.5 DB Project
+
+5. Award in HPC
+  5.1 ASC Supercomputing
+  5.2 APAC
+
+6. Language
+  6.1 TOEFL 100
+  6.2 CET6 649
+
+7. Techniques
+  - Programming skills
+  C/C++, CUDA, Rust, python, verilog, java,
+  - Tools
+  Docker, Kubernetes, VMware, eNSP, gdb, 
+
+  - books I have read
+  <OSTEP>
+  <Computer Arch>
+  <A quantuantive approch>
+  <>
+8. My Research path (another page maybe?)
+
+ -->
