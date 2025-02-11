@@ -58,7 +58,7 @@ I have published 0 papers in system area. <a href='https://scholar.google.com/ci
 - *2024.10 -2024.12*,
  amet.  \| [\[video\]](https://github.com/)
 
- <embed src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="800px" height="600px" />
+ <!-- <embed src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="800px" height="600px" /> -->
 
 
 <iframe src="https://docs.google.com/viewer?url=https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
