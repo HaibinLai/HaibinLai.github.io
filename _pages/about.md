@@ -65,7 +65,7 @@ I have published 0 papers in system area. <a href='https://scholar.google.com/ci
 
 
 
- [点击这里查看PDF文件](https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf)
+ <!-- [点击这里查看PDF文件](https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf) -->
 
 
 <!-- <script src="https://mozilla.github.io/pdf.js/build/pdf.js"></script> -->
