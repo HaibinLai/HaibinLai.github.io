@@ -17,16 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# Haibin: A High Performance System Researcher
+
 # 🔥 About me
 
 I am a Junior Turing Class student at SUSTech, majoring in Computer Science. Problem-solving is my lifelong delight. I am currently participating in research in the fields of Distributed Computing, GPU Computing, and High Performance Computing at the SUSTech HPC-Lab. 
 
-I have published 0 papers in system area. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- I have published 0 papers in system area. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+
+
+# Area
+
+High Performance Computing (HPC)
+
 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
 
 # 📝 Publications 
 
@@ -41,11 +51,11 @@ ParaCOSM: A Parallel Framework for Continuous Subgraph Matching
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this paper, we present ParaCOSM (**Para**llel 
 **CO**ntinuous  **S**ubgraph **M**atching), an efficient parallel framework for existing CSM algorithms on CPU. ParaCOSM leverages two levels of parallelism: inner-update parallelism and inter-update parallelism. Inner-update parallelism employs a fine-grain parallelism approach to decompose the search tree during each CSM query, enabling efficient search for large queries under load balancing. In inter-update parallelism, we introduce an innovative safe-update mechanism that uses multi-threading to verify the safety of multiple updates, thereby enhancing the overall throughput of the system under large-scale update scenarios.
-ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to two orders of magnitude faster execution, with up to 71\% higher success rates on large query graph . 
+ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to two orders of magnitude faster execution, with up to 71% higher success rates on large query graph . 
 </div>
 </div>
 
-- [We open source ParaCOSM at github](https://github.com),  **ICPP 2025**
+- [We open source ParaCOSM at github soon](https://github.com)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -162,6 +172,7 @@ Main Structure
 6. Language
   6.1 TOEFL 100
   6.2 CET6 649
+  6.3 CET4 604
 
 7. Techniques
   - Programming skills
