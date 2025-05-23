@@ -32,15 +32,18 @@ We present Haibin, a  system researcher dedicated in High Performance Computing(
 
  High Performance Computing, Operating System, Software Engineering, Compiler
 
-# Area
+<!-- # Area
 
-High Performance Computing (HPC)
+High Performance Computing (HPC) -->
 
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+
+# Haibin's Main Design
 
 
 
