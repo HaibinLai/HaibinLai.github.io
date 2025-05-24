@@ -187,7 +187,7 @@ Sept 2022 – Present, **Southern University of Science and Technology, BS in Co
     src="../images/research_hours_allocation.png" 
     alt="Haibin's Working status" 
     style="
-      width: 100%;
+      width: 80%;
       display: block;
       margin-left: auto;
       margin-right: auto;
