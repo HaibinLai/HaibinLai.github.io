@@ -103,7 +103,7 @@ High Performance Computing (HPC) -->
 
 
 
-##  Publications 
+#  Publications 
 <!-- 📝 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted for ICPP 2025</div><img src='images/ParaCOSM_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -122,7 +122,7 @@ ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to
 
 - [We will open source ParaCOSM at github soon](https://github.com)
 
-## Research Project 
+# Research Project 
 
 
 - *Aug 2024 - Mar 2025*, [Geochemistrypi](https://github.com/ZJUEarthData/Geochemistrypi), China.
@@ -137,7 +137,7 @@ Online Intern, Zhejiang University DataEarth Lab. [Related Paper](https://agupub
 
 
 
-## Internships
+# Internships
 
 - March 2025 - Present: **Visiting Student**,
 UChicago Globus Lab. Research on High Performance Implementation of OpenMP for many socket machines. [Related Paper](https://arxiv.org/abs/2502.05293)
@@ -150,7 +150,7 @@ UChicago Globus Lab. Research on High Performance Implementation of OpenMP for m
 
 - Aug 2023 - Sep 2023: **Intern** , Beijing Sunway World Technology Co., Ltd.
 
-## HPC Awards
+# HPC Awards
 - *Dec 2024*: 7th APAC HPC-AI Student Competition ; **Third Prize** ; Leader of HPC Team, using HPC-X communication library to accerlerate Hoomd-blue HPC software;
 - *Apr 2024*: **ASC Student Supercomputer Challenge**; **First Prize** ; LINPACK benchmark and parallel optimization of materials science calculations
 
@@ -161,7 +161,7 @@ UChicago Globus Lab. Research on High Performance Implementation of OpenMP for m
 
 
 
-## Educations
+# Educations
 Sept 2022 – Present, **Southern University of Science and Technology, BS in Computer Science**
 
 - GPA: 3.70/4.0
