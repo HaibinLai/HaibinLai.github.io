@@ -177,6 +177,9 @@ Sept 2022 – Present, **Southern University of Science and Technology, BS in Co
 # Experiment
 
 
+<div style="position: relative;">
+  <img src="images/research_hours_allocation.png" alt="我的work情况" style="position: absolute; top: 0; right: 0; max-width: 200px;" />
+</div>
 
 
  <!-- <embed src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="800px" height="600px" /> -->
