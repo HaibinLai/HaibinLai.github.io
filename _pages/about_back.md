@@ -54,7 +54,7 @@ High Performance Computing (HPC) -->
 
 # Introduction
 
-Hai
+"Live, travel, adventure, bless, and don’t be worry."
 
 <!-- 在下面加入一张图片 -->
 <!-- ![alt text](image.png) -->
@@ -68,7 +68,7 @@ Hai
     src="../images/MyJourney.png" 
     alt="Haibin's HPC Academic Journey" 
     style="
-      width: 70%;
+      width: 60%;
       display: block;
       margin-left: auto;
       margin-right: auto;
@@ -99,7 +99,7 @@ Hai
 # Haibin's Main Design
 
 
-
+"The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars and in the middle you see the blue centerlight pop and everybody goes ‘Awww!"
 
 
 
