@@ -120,13 +120,18 @@ ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to
 </div>
 </div>
 
-- [We open source ParaCOSM at github soon](https://github.com)
+- [We will open source ParaCOSM at github soon](https://github.com)
 
 ## Research Project 
 
 
 - *Aug 2024 - Mar 2025*, [Geochemistrypi](https://github.com/ZJUEarthData/Geochemistrypi), China.
 Online Intern, Zhejiang University DataEarth Lab. [Related Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GC011324)
+
+- *Dec 2024 - Jan 2025*, [Viritio-gpu support for Asterinas OS](https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf).  Implemented virtio-gpu driver in Asterinas Operating System on Qemu using **Rust**. The driver works with page buffer scheme and allow user library like mesa communicates with qemu virtio using specfic syscall.
+
+- *Nov 2024 - Jan 2025*, [CrashSimGen: Generating Safety-Critical Scenarios with Diffusion Models](https://github.com/HaibinLai/CrashSimGen).  First prize project of CS329 Machine Learning(H). CrashSimGen is a project that generates dangerous road scenarios using diffusion models for autonomous driving risk assessment. Tools Used: Pytorch, Tensorflow.
+
 
 
 ## Internships
