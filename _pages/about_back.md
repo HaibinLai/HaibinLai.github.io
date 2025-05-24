@@ -37,9 +37,9 @@ We present Haibin, a  system researcher dedicated in **High Performance Computin
 
 
 <!-- 正文 -->
-<div style="font-family: Times, 'Times New Roman', 'Libre Baskerville', serif; font-size: 10pt; text-align: justify; line-height: 1.2; margin-bottom: 20px;">
+<!-- <div style="font-family: Times, 'Times New Roman', 'Libre Baskerville', serif; font-size: 13pt; text-align: justify; line-height: 1.2; margin-bottom: 20px;">
   We present Haibin, a system researcher dedicated to <strong>High Performance Computing (HPC)</strong>. Haibin is a Junior Turing Class student at <strong>Southern University of Science and Technology (SUSTech)</strong>, majoring in <strong>Computer Science</strong>. Problem-solving is his lifelong delight. He is currently participating in research in the fields of Parallel Computing, GPU Computing, and Distributed Computing at the SUSTech HPC-Lab.
-</div>
+</div> -->
 
 <!-- I have published 0 papers in system area. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -125,6 +125,9 @@ ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to
 # Research Project 
 
 
+- *Aug 2024 - Mar 2025*, [Geochemistrypi](https://github.com/ZJUEarthData/Geochemistrypi), China.
+Online Intern, Zhejiang University DataEarth Lab
+
 
 # Internships
 
@@ -144,7 +147,7 @@ ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Project
+# 💬 Communication
 - *2025.01*,
 - *2024.11 - 2024.12*,
 - *2024.10 -2024.12*,
@@ -209,8 +212,7 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc) {
 
 
 # 💻 Internships
-- *Aug 2024 - Present*, [Geochemistrypi](https://github.com/ZJUEarthData/Geochemistrypi), China.
-Online Intern, Zhejiang University DataEarth Lab
+
 
 
 <!-- 
