@@ -52,7 +52,10 @@ Hai
 
 <!-- 在下面加入一张图片 -->
 <!-- ![alt text](image.png) -->
-![Haibin's HPC Academic Journey](../images/MyJourney.png)
+<!-- ![Haibin's HPC Academic Journey](../images/MyJourney.png)
+ -->
+
+<img src="../images/MyJourney.png" alt="Haibin's HPC Academic Journey" style="width: 80%; height: auto;" />
 
   ```python
      pipe = pipeline(
