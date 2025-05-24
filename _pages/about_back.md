@@ -61,7 +61,7 @@ Hai
   src="../images/MyJourney.png" 
   alt="Haibin's HPC Academic Journey" 
   style="
-    width: 80%;
+    width: 70%;
     display: block;
     margin-left: auto;
     margin-right: auto;
