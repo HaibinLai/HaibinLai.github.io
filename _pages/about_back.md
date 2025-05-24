@@ -144,8 +144,13 @@ Online Intern, Zhejiang University DataEarth Lab
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Sept 2022 – Present, **Southern University of Science and Technology, BS in Computer Science**
+
+- GPA: 3.70/4.0
+
+- Coursework: **Operating System(H)** 96, **Machine Learning(H)** 96
+<!-- , Computer Organization(H), Computer Network 89 -->
+<!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 💬 Communication
 - *2025.01*,
