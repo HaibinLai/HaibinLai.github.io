@@ -162,6 +162,8 @@ Sept 2022 – Present, **Southern University of Science and Technology, BS in Co
 <!-- , Computer Organization(H), Computer Network 89 -->
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+---
+
 # RelatedWorks
 
 ## Honors
@@ -178,6 +180,10 @@ Sept 2022 – Present, **Southern University of Science and Technology, BS in Co
 
 # Experiment
 
+Haibin considers research for 6 stages: Planning, Finding Failures, Building main design, Vaildating the ideas, Pruning and boosting, and writing papers. 
+
+To show Haibin's work schedule, 
+we randomly selected 2 weeks for each of his research stages as Figure 2 shows.
 
 <!-- <div style="position: relative;">
   <img src="images/research_hours_allocation.png" alt="我的work情况" style="position: absolute; top: 0; right: 0; max-width: 200px;" />
@@ -204,6 +210,11 @@ Sept 2022 – Present, **Southern University of Science and Technology, BS in Co
 # Contact
 
 Although Haibin is not open-sourced with Apache Licence 2.0, you can reach him at 12211612@mail.sustech.edu.cn .
+
+
+<!-- # Achknowledgement
+
+We acknowledge the helpful support and guidance from professor **Zhuozhao Li**, **Kyle Chard** and **Ian Foster**. Special Thanks to Sicheng Zhou, Bowen Zhang, Yicheng Xiao, Zudong Li, Yukun Yang, Jiahua Zhao, Prof. Shiqi Yu, Prof. Yinqian Zhang. This research is supported by my mom and my dad. -->
 
  <!-- <embed src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="800px" height="600px" /> -->
 
