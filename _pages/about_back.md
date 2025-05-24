@@ -198,6 +198,11 @@ Sept 2022 – Present, **Southern University of Science and Technology, BS in Co
   </div>
 </div>
 
+
+# Contact
+
+Although Haibin is not open-sourced, you can reach him at 12211612@mail.sustech.edu.cn .
+
  <!-- <embed src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="800px" height="600px" /> -->
 
 
