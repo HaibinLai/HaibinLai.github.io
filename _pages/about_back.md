@@ -46,7 +46,7 @@ We present Haibin, a  system researcher dedicated in **High Performance Computin
 
 High Performance Computing (HPC) -->
 
-# 1 Introduction
+# Introduction
 
 Hai
 
