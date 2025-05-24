@@ -115,7 +115,7 @@ ParaCOSM: A Parallel Framework for Continuous Subgraph Matching
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this paper, we present ParaCOSM (**Para**llel 
-**CO**ntinuous  **S**ubgraph **M**atching), an efficient parallel framework for existing CSM algorithms on CPU. ParaCOSM leverages two levels of parallelism: inner-update parallelism and inter-update parallelism. Inner-update parallelism employs a fine-grain parallelism approach to decompose the search tree during each CSM query, enabling efficient search for large queries under load balancing. In inter-update parallelism, we introduce an innovative safe-update mechanism that uses multi-threading to verify the safety of multiple updates, thereby enhancing the overall throughput of the system under large-scale update scenarios.
+**CO**ntinuous  **S**ubgraph **M**atching), an efficient parallel framework for existing **Continuous Subgraph Matching** algorithms on CPU. 
 ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to two orders of magnitude faster execution, with up to 71% higher success rates on large query graph . 
 </div>
 </div>
