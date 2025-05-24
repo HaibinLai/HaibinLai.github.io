@@ -168,6 +168,11 @@ Sept 2022 – Present, **Southern University of Science and Technology, BS in Co
 
 ### Honors
 
+- *Nov 2024*, 2024 Outstanding Student Award
+- *Jan 2024*, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) 
+- *Nov 2023*, 2023 Outstanding Student Award
+- *Sep 2022*, 2022 President's Special Scholarship
+
 ### English Skills
 - *Oct 2024*, **TOEFL**. Score: 100/120; speaking 22, listening 26, reading 30, writing 22
 - *Jun 2024*, **CET6**: 649/710
