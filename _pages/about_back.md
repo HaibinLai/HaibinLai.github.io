@@ -131,8 +131,18 @@ Online Intern, Zhejiang University DataEarth Lab
 
 # Internships
 
+- March 2025 - Present: **Visiting Student**,
+UChicago Globus Lab. Research on High Performance Implementation of OpenMP for many socket machines. [Related Paper](https://arxiv.org/abs/2502.05293)
 
-# 🎖 Honors and Awards
+
+
+
+- Feb 2024 – Aug 2024: 
+**Student Assistant**, SUSTech Center for Computational Science and Engineering. Participated in the operation and maintenance of SUSTech **Qiming** and **Taiyi** Supercomputer.
+
+- Aug 2023 - Sep 2023: **Intern** , Beijing Sunway World Technology Co., Ltd.
+
+# 🎖 HPC Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -152,11 +162,22 @@ Sept 2022 – Present, **Southern University of Science and Technology, BS in Co
 <!-- , Computer Organization(H), Computer Network 89 -->
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 💬 Communication
+# RelatedWorks
+
+
+## 💬 Communication
 - *2025.01*,
 - *2024.11 - 2024.12*,
 - *2024.10 -2024.12*,
  amet.  \| [\[video\]](https://github.com/)
+
+## Honors
+
+
+# Experiment
+
+
+
 
  <!-- <embed src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="800px" height="600px" /> -->
 
@@ -216,7 +237,19 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc) {
 
 
 
-# 💻 Internships
+<!-- # 💻 Internships
+
+- March 2025 - Present: **Visiting Student**,
+UChicago Globus Lab. Research on High Performance Implementation of OpenMP for many socket machines. [Related Paper](https://arxiv.org/abs/2502.05293)
+
+
+
+
+- Feb 2024 – Aug 2024: 
+**Student Assistant**, SUSTech Center for Computational Science and Engineering. Participated in the operation and maintenance of SUSTech **Qiming** and **Taiyi** Supercomputer.
+
+- Aug 2023 - Sep 2023: **Intern** , Beijing Sunway World Technology Co., Ltd. -->
+
 
 
 
