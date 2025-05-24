@@ -126,7 +126,7 @@ ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to
 
 
 - *Aug 2024 - Mar 2025*, [Geochemistrypi](https://github.com/ZJUEarthData/Geochemistrypi), China.
-Online Intern, Zhejiang University DataEarth Lab
+Online Intern, Zhejiang University DataEarth Lab. [Related Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GC011324)
 
 
 # Internships
@@ -143,8 +143,8 @@ UChicago Globus Lab. Research on High Performance Implementation of OpenMP for m
 - Aug 2023 - Sep 2023: **Intern** , Beijing Sunway World Technology Co., Ltd.
 
 # 🎖 HPC Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Dec 2024*: 7th APAC HPC-AI Student Competition ; **Third Prize** ; Leader of HPC Team, using HPC-X communication library to accerlerate Hoomd-blue HPC software;
+- *Apr 2024*: **ASC Student Supercomputer Challenge**; **First Prize** ; LINPACK benchmark and parallel optimization of materials science calculations
 
 
 
@@ -164,14 +164,16 @@ Sept 2022 – Present, **Southern University of Science and Technology, BS in Co
 
 # RelatedWorks
 
-
-## 💬 Communication
-- *2025.01*,
-- *2024.11 - 2024.12*,
-- *2024.10 -2024.12*,
- amet.  \| [\[video\]](https://github.com/)
-
 ## Honors
+
+## English Skills
+- *Oct 2024*, **TOEFL**. Score: 100/120; speaking 22, listening 26, reading 30, writing 22
+- *Jun 2024*, **CET6**: 649/710
+- *Jun 2023*, **CET4**: 604/710
+- *Jul 2023*, **Georgia Institute of Technology ASP Program**
+ .  Participated in summer courses at Georgia Tech, enhancing international communication skills and gaining insights into American culture.
+
+
 
 
 # Experiment
