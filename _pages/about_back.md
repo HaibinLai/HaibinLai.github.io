@@ -50,6 +50,10 @@ High Performance Computing (HPC) -->
 
 Hai
 
+<!-- 在下面加入一张图片 -->
+<!-- ![alt text](image.png) -->
+![Haibin's HPC Academic Journey](../images/MyJourney.png)
+
   ```python
      pipe = pipeline(
         "text-generation", 
@@ -59,6 +63,8 @@ Hai
         max_new_tokens=128,
     )
   ```
+
+
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
