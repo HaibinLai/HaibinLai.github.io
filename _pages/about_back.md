@@ -38,7 +38,7 @@ We present Haibin, a  system researcher dedicated in High Performance Computing(
 <!-- I have published 0 papers in system area. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-## CCF Concept
+## Keywords
 
  High Performance Computing, Operating System, Software Engineering, Compiler
 
@@ -46,7 +46,7 @@ We present Haibin, a  system researcher dedicated in High Performance Computing(
 
 High Performance Computing (HPC) -->
 
-# Introduction
+# 1 Introduction
 
 Hai
 
@@ -57,6 +57,15 @@ Hai
 
 # Haibin's Main Design
 
+
+  ```mermaid
+  timeline
+      title Haibin's Academic Journey
+      2021-2024 : "BSc in Computer Science"
+      2022 Summer : "1st HPC Competition (ASC)"
+      2023 Spring : "ICPP Paper Published"
+      2023 Winter : "2nd Research Project (GPU Profiling)"
+  ```
 
 
 # 📝 Publications 
