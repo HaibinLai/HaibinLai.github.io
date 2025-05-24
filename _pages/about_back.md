@@ -17,6 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
+<div style="position: relative;">
+  <img src="images/ATFact.png" alt="ATFact 图片" style="position: absolute; top: 0; right: 0; max-width: 200px;" />
+</div>
+
 # Haibin: A High Performance System Researcher
 
 # Abstract
@@ -36,7 +41,9 @@ We present Haibin, a  system researcher dedicated in High Performance Computing(
 
 High Performance Computing (HPC) -->
 
+# Introduction
 
+Hai
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -49,7 +56,7 @@ High Performance Computing (HPC) -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPP 2025</div><img src='images/ParaCOSM_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted for ICPP 2025</div><img src='images/ParaCOSM_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [ParaCOSM: A Parallel Framework for Continuous Subgraph Matching](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
@@ -66,9 +73,19 @@ ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to
 
 - [We open source ParaCOSM at github soon](https://github.com)
 
+# Research Project & Internships
+
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
+
+
+
+
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
