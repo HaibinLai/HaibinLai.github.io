@@ -57,16 +57,21 @@ Hai
 
 <!-- <img src="../images/MyJourney.png" alt="Haibin's HPC Academic Journey" style="width: 80%; height: auto;" /> -->
 
-<img 
-  src="../images/MyJourney.png" 
-  alt="Haibin's HPC Academic Journey" 
-  style="
-    width: 70%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  "
-/>
+<div style="text-align: center;">
+  <img 
+    src="../images/MyJourney.png" 
+    alt="Haibin's HPC Academic Journey" 
+    style="
+      width: 70%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    "
+  />
+  <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
+    Figure 1: Haibin's HPC academic journey.
+  </div>
+</div>
 
   <!-- ```python
      pipe = pipeline(
