@@ -177,10 +177,26 @@ Sept 2022 – Present, **Southern University of Science and Technology, BS in Co
 # Experiment
 
 
-<div style="position: relative;">
+<!-- <div style="position: relative;">
   <img src="images/research_hours_allocation.png" alt="我的work情况" style="position: absolute; top: 0; right: 0; max-width: 200px;" />
-</div>
+</div> -->
 
+
+<div style="text-align: center;">
+  <img 
+    src="../images/research_hours_allocation.png" 
+    alt="Haibin's Working status" 
+    style="
+      width: 100%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    "
+  />
+  <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
+    Figure 2: Haibin's Working status
+  </div>
+</div>
 
  <!-- <embed src="https://github.com/HaibinLai/HaibinLai.github.io/blob/main/docs/Asterinas_Virtio_GPU_Driver.pdf" width="800px" height="600px" /> -->
 
