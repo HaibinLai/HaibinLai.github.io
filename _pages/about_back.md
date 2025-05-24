@@ -55,9 +55,20 @@ Hai
 <!-- ![Haibin's HPC Academic Journey](../images/MyJourney.png)
  -->
 
-<img src="../images/MyJourney.png" alt="Haibin's HPC Academic Journey" style="width: 80%; height: auto;" />
+<!-- <img src="../images/MyJourney.png" alt="Haibin's HPC Academic Journey" style="width: 80%; height: auto;" /> -->
 
-  ```python
+<img 
+  src="../images/MyJourney.png" 
+  alt="Haibin's HPC Academic Journey" 
+  style="
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  "
+/>
+
+  <!-- ```python
      pipe = pipeline(
         "text-generation", 
         model=model_id, 
@@ -65,7 +76,7 @@ Hai
         device_map="auto",
         max_new_tokens=128,
     )
-  ```
+  ``` -->
 
 
 
