@@ -35,6 +35,12 @@ redirect_from:
 
 We present Haibin, a  system researcher dedicated in **High Performance Computing(HPC)**. Haibin is a Junior Turing Class student at **Southern University of Science and Technology** (SUSTech), majoring in **Computer Science**. Problem-solving is his lifelong delight. He is currently participating in research in the fields of Parallel Computing, GPU Computing, and Distributed Computing at the SUSTech HPC-Lab. 
 
+
+<!-- 正文 -->
+<div style="font-family: Times, 'Times New Roman', 'Libre Baskerville', serif; font-size: 10pt; text-align: justify; line-height: 1.2; margin-bottom: 20px;">
+  We present Haibin, a system researcher dedicated to <strong>High Performance Computing (HPC)</strong>. Haibin is a Junior Turing Class student at <strong>Southern University of Science and Technology (SUSTech)</strong>, majoring in <strong>Computer Science</strong>. Problem-solving is his lifelong delight. He is currently participating in research in the fields of Parallel Computing, GPU Computing, and Distributed Computing at the SUSTech HPC-Lab.
+</div>
+
 <!-- I have published 0 papers in system area. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -96,6 +102,7 @@ Hai
 
 
 
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted for ICPP 2025</div><img src='images/ParaCOSM_00.png' alt="sym" width="100%"></div></div>
@@ -115,7 +122,11 @@ ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to
 
 - [We open source ParaCOSM at github soon](https://github.com)
 
-# Research Project & Internships
+# Research Project 
+
+
+
+# Internships
 
 
 # 🎖 Honors and Awards
