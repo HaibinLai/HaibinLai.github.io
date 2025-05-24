@@ -8,13 +8,13 @@ main:
     # url: "/#-news"
 
   - title: "Publications"
-    url: "/##publications"
+    url: "/#publications"
 
   - title: "Internships"
-    url: "/##internships"
+    url: "/#internships"
 
   - title: "HPC awards"
-    url: "/##hpc-awards"
+    url: "/#hpc-awards"
 
   - title: "Educations"
     url: "/#educations"
