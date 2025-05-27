@@ -111,7 +111,26 @@ This paper outlines the architectural evolution of my academic design—from bas
 # Haibin's Main Design
 
 
+As shown in Figure 2, my academic architecture integrates two research applications and multiple project-level modules. In this architecture, I fueled by a principle I live and work by:
+
 "The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars and in the middle you see the blue centerlight pop and everybody goes ‘Awww!"
+— Jack Kerouac
+
+<div style="text-align: center;">
+  <img 
+    src="../images/LinuxMy.png" 
+    alt="Haibin's Main Architecture" 
+    style="
+      width: 100%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    "
+  />
+  <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
+    Figure 2: Haibin's Main Architecture.
+  </div>
+</div>
 
 
 # Education
@@ -225,7 +244,7 @@ PostgreSQL, Docker, Linux
 Haibin considers research for 6 stages: Planning, Finding Failures, Building main design, Vaildating the ideas, Pruning and boosting, and writing papers. 
 
 To show Haibin's work schedule, 
-we randomly selected 2 weeks for each of his research stages as Figure 2 shows.
+we randomly selected 2 weeks for each of his research stages as Figure 3 shows.
 
 <!-- <div style="position: relative;">
   <img src="images/research_hours_allocation.png" alt="我的work情况" style="position: absolute; top: 0; right: 0; max-width: 200px;" />
@@ -244,7 +263,7 @@ we randomly selected 2 weeks for each of his research stages as Figure 2 shows.
     "
   />
   <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
-    Figure 2: Haibin's Working status
+    Figure 3: Haibin's Working status
   </div>
 </div>
 
