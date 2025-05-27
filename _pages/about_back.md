@@ -318,7 +318,7 @@ As shown in Figure 5, I tracked the relative efficiency (compared to baseline so
   </div>
 </div>
 
-As visualized in Figure 4, simple techniques such as sports and structured rest (e.g., Pomodoro + music) proved helpful, with explaining ideas to a peer emerging as the most effective strategy—boosting productivity to 110% and offering high emotional relief.
+Simple techniques such as sports and structured rest (e.g., Pomodoro + music) proved helpful, with explaining ideas to a peer emerging as the most effective strategy—boosting productivity to 110% and offering high emotional relief.
 
 This experiment helped me realize that productivity is not just about time, but also mindset, environment, and support. Apparently, talking to people > talking to myself.
 
