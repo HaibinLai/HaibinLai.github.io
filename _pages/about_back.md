@@ -122,7 +122,7 @@ As shown in Figure 2, my academic architecture integrates two research applicati
     src="../images/LinuxMy.png" 
     alt="Haibin's Main Architecture" 
     style="
-      width: 100%;
+      width: 60%;
       display: block;
       margin-left: auto;
       margin-right: auto;
