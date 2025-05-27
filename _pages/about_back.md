@@ -60,11 +60,11 @@ High Performance Computing (HPC) -->
 
 - In context switches, we have `PCB`. So why we still need store infomation in user stack and kernel stack?
 
-My research motivation stems from a deep curiosity for these "stupid" problems.  I find profound joy in discovering and dissecting the hidden mechanisms behind computer architecture and operating systems.
+My research motivation stems from a deep curiosity for these "**stupid**" problems.  I find profound joy in discovering and dissecting the hidden mechanisms behind computer architecture and operating systems.
 
 This paper outlines the architectural evolution of my academic design—from baseline instruction set (coursework) to custom optimization (research projects), culminating in a proposal to transition from undergraduate compute node to PhD-scale parallel research unit as figure 1 shows.
 
-"Live, travel, adventure, bless, and don’t be worry."
+**"Live, travel, adventure, bless, and don’t be worry."**
 
 <!-- 在下面加入一张图片 -->
 <!-- ![alt text](image.png) -->
