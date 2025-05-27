@@ -254,7 +254,7 @@ we randomly selected 2 weeks for each of his research stages as Figure 3 shows.
 
 <div style="text-align: center;">
   <img 
-    src="../images/research_hours_allocation.png" 
+    src="../images/haibin_stacked_research_hours.png" 
     alt="Haibin's Working status" 
     style="
       width: 80%;
