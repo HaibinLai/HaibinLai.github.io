@@ -158,10 +158,12 @@ ParaCOSM: A Parallel Framework for Continuous Subgraph Matching
 - In this paper, we present ParaCOSM (**Para**llel 
 **CO**ntinuous  **S**ubgraph **M**atching), an efficient parallel framework for existing **Continuous Subgraph Matching** algorithms on CPU. 
 ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to two orders of magnitude faster execution, with up to 71% higher success rates on large query graph . 
+
+- [We will open source ParaCOSM at github soon](https://github.com)
 </div>
 </div>
 
-- [We will open source ParaCOSM at github soon](https://github.com)
+
 
 # Research Project 
 
@@ -181,7 +183,7 @@ Online Intern, Zhejiang University DataEarth Lab. [Related Paper](https://agupub
 # Internships
 
 - March 2025 - Present: **Visiting Student**,
-UChicago Globus Lab. Research on High Performance Implementation of OpenMP for many socket machines. [Related Paper](https://arxiv.org/abs/2502.05293)
+UChicago Globus Lab. Research on High Performance Implementation of OpenMP for many socket machines. 
 
 
 
@@ -293,7 +295,7 @@ To better understand when Haibin achieves peak productivity, we conducted a self
   </div>
 </div>
 
-Haibin's peak productivity occurred "3 hours before deadline" with a 300% efficiency boost, more than 3× faster than baseline. Also, the Pomodoro technique resulted in 150% efficiency. And  Classical Music yielded 145% efficiency for coding and experimenting.
+Haibin's peak productivity occurred "3 hours before deadline" with a 300% efficiency boost. Also, the Pomodoro technique resulted in 150% efficiency. And  Classical Music yielded 145% efficiency for coding and experimenting.
 
 # Contact
 
