@@ -242,10 +242,13 @@ PostgreSQL, Docker, Linux
 
 # Experiment
 
-Haibin considers research for 6 stages: Planning(2 months), Finding Failures(1 month), Building the main design(2 months), Vaildating the ideas(3 months), Pruning and boosting(2 months), and writing papers(1 month). 
+## Time Distribution
 
-To show Haibin's work schedule, 
-we randomly selected 2 weeks for each of his research stages and collected data from [Toggl Track](https://toggl.com/) as Figure 3 shows (class homework isn't included in the figure).
+To understand how time is distributed throughout a research lifecycle, Haibin categorizes research into **six key stages**:
+
+> **Planning** (2 months), **Finding Failures** (1 month), **Main Design** (2 months), **Validation** (3 months), **Pruning and Boosting** (2 months), and **Writing Papers** (1 month).
+
+For each stage, two representative weeks were randomly sampled, and detailed work activity logs were extracted from [Toggl Track](https://toggl.com/) as figure 3 shows. Class homework and unrelated tasks were excluded.
 
 <!-- <div style="position: relative;">
   <img src="images/research_hours_allocation.png" alt="我的work情况" style="position: absolute; top: 0; right: 0; max-width: 200px;" />
@@ -264,10 +267,33 @@ we randomly selected 2 weeks for each of his research stages and collected data 
     "
   />
   <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
-    Figure 3: Haibin's Working status
+    Figure 3: Haibin's Working Status
   </div>
 </div>
 
+Haibin’s research process shows clear **stage separation** and **role reallocation**: early stages are exploration-heavy (reading, benchmarking), middle stages are dominated by **implementation and validation**, and final stages shift toward **refinement and storytelling**.
+
+## Working Efficiency
+
+To better understand when Haibin achieves peak productivity, we conducted a self-tracking experiment across several real-world conditions. The measured efficiency is normalized to solo coding (100%) as baseline. The results are shown in Figure 4.
+
+<div style="text-align: center;">
+  <img 
+    src="../images/productivity_conditions_seaborn.png" 
+    alt="Haibin's Working Efficiency" 
+    style="
+      width: 90%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    "
+  />
+  <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
+    Figure 4: Haibin's Working Efficiency
+  </div>
+</div>
+
+Haibin's peak productivity occurred "3 hours before deadline" with a 300% efficiency boost, more than 3× faster than baseline. Also, the Pomodoro technique resulted in 150% efficiency. And  Classical Music yielded 145% efficiency for coding and experimenting.
 
 # Contact
 
