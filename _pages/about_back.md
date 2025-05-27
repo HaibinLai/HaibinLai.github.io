@@ -19,7 +19,7 @@ redirect_from:
 
 
 <div style="position: relative;">
-  <img src="images/ATFact.png" alt="ATFact 图片" style="position: absolute; top: 0; right: 0; max-width: 200px;" />
+  <img src="images/myCV2.png" alt="ATFact 图片" style="position: absolute; top: 0; right: 0; max-width: 200px;" />
 </div>
 
 
@@ -82,7 +82,7 @@ Sept 2022 – Present, **Southern University of Science and Technology, Undergra
     src="../images/myCV.drawio2.png" 
     alt="Haibin's HPC Academic Journey" 
     style="
-      width: 90%;
+      width: 100%;
       display: block;
       margin-left: auto;
       margin-right: auto;
