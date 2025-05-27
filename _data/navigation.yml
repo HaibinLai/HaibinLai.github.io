@@ -7,6 +7,9 @@ main:
     url: "/#introduction"
     # url: "/#-news"
 
+  - title: "Education"
+    url: "/#education"
+
   - title: "Publications"
     url: "/#publications"
 
@@ -16,8 +19,7 @@ main:
   - title: "HPC awards"
     url: "/#hpc-awards"
 
-  - title: "Education"
-    url: "/#education"
+
 
   - title: "Experiment"
     url: "/#experiment"

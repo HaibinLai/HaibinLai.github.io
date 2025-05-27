@@ -114,6 +114,7 @@ This paper outlines the architectural evolution of my academic design—from bas
 As shown in Figure 2, my academic architecture integrates two research applications and multiple project-level modules. In this architecture, I fueled by a principle I live and work by:
 
 "The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars and in the middle you see the blue centerlight pop and everybody goes ‘Awww!"
+
 — Jack Kerouac
 
 <div style="text-align: center;">
