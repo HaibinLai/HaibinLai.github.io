@@ -257,7 +257,7 @@ we randomly selected 2 weeks for each of his research stages and collected data 
     src="../images/haibin_stacked_research_hours.png" 
     alt="Haibin's Working status" 
     style="
-      width: 80%;
+      width: 70%;
       display: block;
       margin-left: auto;
       margin-right: auto;
