@@ -19,7 +19,7 @@ redirect_from:
 
 
 <div style="position: relative;">
-  <img src="images/myCV2.png" alt="ATFact 图片" style="position: absolute; top: 0; right: 0; max-width: 100px;" />
+  <img src="images/myCV2.png" alt="ATFact 图片" style="position: absolute; top: 0; right: 0; max-width: 150px;" />
 </div>
 
 
