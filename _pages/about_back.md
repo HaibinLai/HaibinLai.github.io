@@ -63,9 +63,23 @@ High Performance Computing (HPC) -->
 
 <!-- <img src="../images/MyJourney.png" alt="Haibin's HPC Academic Journey" style="width: 80%; height: auto;" /> -->
 
+### Education
+
+Sept 2022 – Present, **Southern University of Science and Technology, Undergraduate in Computer Science**
+
+- GPA: 3.70/4.0
+
+- Coursework: **Operating System(H)** 96, **Machine Learning(H)** 96
+
+
+### Techniques
+
+**Languages**: C++, C, CUDA, Java, python, Rust, SQL
+
+
 <div style="text-align: center;">
   <img 
-    src="../images/MyJourney.png" 
+    src="../images/myCV.drawio.png" 
     alt="Haibin's HPC Academic Journey" 
     style="
       width: 60%;
@@ -75,7 +89,7 @@ High Performance Computing (HPC) -->
     "
   />
   <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
-    Figure 1: Haibin's HPC academic journey.
+    Figure 1: Haibin's HPC academic architecture.
   </div>
 </div>
 
@@ -161,12 +175,14 @@ UChicago Globus Lab. Research on High Performance Implementation of OpenMP for m
 
 
 
-# Educations
-Sept 2022 – Present, **Southern University of Science and Technology, BS in Computer Science**
+<!-- # Educations
+Sept 2022 – Present, **Southern University of Science and Technology, Undergraduate in Computer Science**
 
 - GPA: 3.70/4.0
 
-- Coursework: **Operating System(H)** 96, **Machine Learning(H)** 96
+- Coursework: **Operating System(H)** 96, **Machine Learning(H)** 96 -->
+
+
 <!-- , Computer Organization(H), Computer Network 89 -->
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -194,9 +210,7 @@ Sept 2022 – Present, **Southern University of Science and Technology, BS in Co
 
 PostgreSQL, Docker, Linux -->
 
-### Techniques
 
-**Languages**: C++, C, CUDA, Java, python, Rust, SQL
 
 
 # Experiment
