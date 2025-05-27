@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /Haibin
 title: "Haibin's Page"
 excerpt: ""
 author_profile: true
