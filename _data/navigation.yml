@@ -3,6 +3,9 @@ main:
   # - title: "About Me"
   #   url: "/#about-me"
 
+  - title: "Complete CV"
+    url: "https://www.haibinlaiblog.top/wp-content/uploads/2024/10/HaibinLai_CV.pdf"
+
   - title: "Introduction"
     url: "/#introduction"
     # url: "/#-news"
@@ -29,8 +32,7 @@ main:
   - title: "Contact"
     url: "/#contact"
 
-  - title: "CV"
-    url: "https://www.haibinlaiblog.top/wp-content/uploads/2024/10/HaibinLai_CV.pdf"
+
 
   - title: "My Blogs"
     url: "https://www.haibinlaiblog.top/"
