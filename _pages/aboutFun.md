@@ -193,14 +193,13 @@ Main Structure
  --> -->
 
 <!-- -------------------------------------------------------------------- -->
-
- ---
-permalink: /
+---
+permalink: /funCV
 title: "Haibin's Page"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /index/
+  - /fun/
   # - /index.html
 ---
 
@@ -496,6 +495,7 @@ Haibin's peak productivity occurred "3 hours before deadline" with a 300% effici
 
 ## Coping Resilience Strategies
 
+As shown in Figure 5, I tracked the relative efficiency (compared to baseline solo coding) and mood recovery (self-rated on a 1–10 scale) for each method.
 
 <div style="text-align: center;">
   <img 
@@ -509,11 +509,13 @@ Haibin's peak productivity occurred "3 hours before deadline" with a 300% effici
     "
   />
   <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
-    Figure 4: Haibin's Working Efficiency
+    Figure 5: Haibin's Coping Resilience Strategies Comparsion
   </div>
 </div>
 
+As visualized in Figure 4, simple techniques such as sports and structured rest (e.g., Pomodoro + music) proved helpful, with explaining ideas to a peer emerging as the most effective strategy—boosting productivity to 110% and offering high emotional relief.
 
+This experiment helped me realize that productivity is not just about time, but also mindset, environment, and support. Apparently, talking to people > talking to myself.
 
 
 # Contact
