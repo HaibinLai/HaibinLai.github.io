@@ -54,6 +54,16 @@ High Performance Computing (HPC) -->
 
 # Introduction
 
+- What would happen if you use `gdb` to observe another `gdb`?
+
+- How did LLVM implement `OpenMP`?
+
+- In context switches, we have `PCB`. So why we still need store infomation in user stack and kernel stack?
+
+My research motivation stems from a deep curiosity for these "stupid" problems.  I find profound joy in discovering and dissecting the hidden mechanisms behind computer architecture and operating systems.
+
+This paper outlines the architectural evolution of my academic design—from baseline instruction set (coursework) to custom optimization (research projects), culminating in a proposal to transition from undergraduate compute node to PhD-scale parallel research unit as figure 1 shows.
+
 "Live, travel, adventure, bless, and don’t be worry."
 
 <!-- 在下面加入一张图片 -->
@@ -63,18 +73,6 @@ High Performance Computing (HPC) -->
 
 <!-- <img src="../images/MyJourney.png" alt="Haibin's HPC Academic Journey" style="width: 80%; height: auto;" /> -->
 
-### Education
-
-Sept 2022 – Present, **Southern University of Science and Technology, Undergraduate in Computer Science**
-
-- GPA: 3.70/4.0
-
-- Coursework: **Operating System(H)** 96, **Machine Learning(H)** 96
-
-
-### Techniques
-
-**Languages**: C++, C, CUDA, Java, python, Rust, SQL
 
 
 <div style="text-align: center;">
@@ -114,6 +112,15 @@ Sept 2022 – Present, **Southern University of Science and Technology, Undergra
 
 
 "The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars and in the middle you see the blue centerlight pop and everybody goes ‘Awww!"
+
+
+# Education
+
+Sept 2022 – Present, **Southern University of Science and Technology, Undergraduate in Computer Science**
+
+- GPA: 3.70/4.0
+
+- Coursework: **Operating System(H)** 96, **Machine Learning(H)** 96
 
 
 
@@ -204,11 +211,11 @@ Sept 2022 – Present, **Southern University of Science and Technology, Undergra
 - *Jul 2023*, **Georgia Institute of Technology ASP Program**
  .  Participated in summer courses at Georgia Tech, enhancing international communication skills and gaining insights into American culture.
 
-<!-- ## Techniques
+### Techniques
 
 **Languages**: C++, C, CUDA, Java, python, Rust, SQL
 
-PostgreSQL, Docker, Linux -->
+PostgreSQL, Docker, Linux
 
 
 
