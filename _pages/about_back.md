@@ -297,6 +297,29 @@ To better understand when Haibin achieves peak productivity, we conducted a self
 
 Haibin's peak productivity occurred "3 hours before deadline" with a 300% efficiency boost. Also, the Pomodoro technique resulted in 150% efficiency. And  Classical Music yielded 145% efficiency for coding and experimenting.
 
+
+## Coping Resilience Strategies
+
+
+<div style="text-align: center;">
+  <img 
+    src="../images/coping_strategies.png" 
+    alt="Haibin's Working Efficiency" 
+    style="
+      width: 90%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    "
+  />
+  <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
+    Figure 4: Haibin's Working Efficiency
+  </div>
+</div>
+
+
+
+
 # Contact
 
 Although Haibin is not open-sourced with Apache Licence 2.0, you can reach him at 12211612@mail.sustech.edu.cn .
