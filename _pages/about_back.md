@@ -194,7 +194,7 @@ UChicago Globus Lab. Research on High Performance Implementation of OpenMP for m
 - Aug 2023 - Sep 2023: **Intern** , Beijing Sunway World Technology Co., Ltd.
 
 # HPC Awards
-- *Dec 2024*: 7th APAC HPC-AI Student Competition ; **Third Prize** ; Leader of HPC Team, using HPC-X communication library to accerlerate Hoomd-blue HPC software;
+- *Dec 2024*: **7th APAC HPC-AI Student Competition** ; **Third Prize** ; Leader of HPC Team, using HPC-X communication library to accerlerate Hoomd-blue HPC software;
 - *Apr 2024*: **ASC Student Supercomputer Challenge**; **First Prize** ; LINPACK benchmark and parallel optimization of materials science calculations
 
 
