@@ -242,10 +242,10 @@ PostgreSQL, Docker, Linux
 
 # Experiment
 
-Haibin considers research for 6 stages: Planning, Finding Failures, Building main design, Vaildating the ideas, Pruning and boosting, and writing papers. 
+Haibin considers research for 6 stages: Planning(2 months), Finding Failures(1 month), Building the main design(2 months), Vaildating the ideas(3 months), Pruning and boosting(2 months), and writing papers(1 month). 
 
 To show Haibin's work schedule, 
-we randomly selected 2 weeks for each of his research stages as Figure 3 shows.
+we randomly selected 2 weeks for each of his research stages and collected data from [Toggl Track](https://toggl.com/) as Figure 3 shows (class homework isn't included in the figure).
 
 <!-- <div style="position: relative;">
   <img src="images/research_hours_allocation.png" alt="我的work情况" style="position: absolute; top: 0; right: 0; max-width: 200px;" />
