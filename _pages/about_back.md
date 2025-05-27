@@ -58,11 +58,11 @@ High Performance Computing (HPC) -->
 
 - How did LLVM implement `OpenMP`?
 
-- In context switches, we have `PCB`. So why we still need store infomation in user stack and kernel stack?
+- In context switches, we have `PCB`. So why do we still need to store information in the user stack and kernel stack?
 
-My research motivation stems from a deep curiosity for these "**stupid**" problems.  I find profound joy in discovering and dissecting the hidden mechanisms behind computer architecture and operating systems.
+My research motivation stems from a deep curiosity for these "**stupid**" problems.  I find profound joy in discovering and dissecting the hidden mechanisms behind computer architecture and operating systems.
 
-This paper outlines the architectural evolution of my academic design—from baseline instruction set (coursework) to custom optimization (research projects), culminating in a proposal to transition from undergraduate compute node to PhD-scale parallel research unit as figure 1 shows.
+This paper outlines the architectural evolution of my academic design, from a baseline instruction set (coursework) to custom optimization (research projects), culminating in a proposal to transition from an undergraduate compute node to a Ph. D.-scale parallel research unit, as Figure 1 shows.
 
 **"Live, travel, adventure, bless, and don’t be worry."**
 
@@ -111,7 +111,7 @@ This paper outlines the architectural evolution of my academic design—from bas
 # Haibin's Main Design
 
 
-As shown in Figure 2, my academic architecture integrates two research applications and multiple project-level modules. In this architecture, I fueled by a principle I live and work by:
+As shown in Figure 2, my academic architecture integrates two research applications and multiple project-level modules. In this architecture, I am fueled by a principle I live and work by:
 
 "The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars and in the middle you see the blue centerlight pop and everybody goes ‘Awww!"
 
