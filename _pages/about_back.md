@@ -79,10 +79,10 @@ Sept 2022 – Present, **Southern University of Science and Technology, Undergra
 
 <div style="text-align: center;">
   <img 
-    src="../images/myCV.drawio.png" 
+    src="../images/myCV.drawio2.png" 
     alt="Haibin's HPC Academic Journey" 
     style="
-      width: 60%;
+      width: 90%;
       display: block;
       margin-left: auto;
       margin-right: auto;
