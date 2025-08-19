@@ -77,7 +77,7 @@ This paper outlines the architectural evolution of my academic design, from a ba
 
 <div style="text-align: center;">
   <img 
-    src="../images/myCV.drawio2.png" 
+    src="../images/myCV.drawio.png" 
     alt="Haibin's HPC Academic Journey" 
     style="
       width: 100%;
