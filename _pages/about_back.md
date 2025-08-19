@@ -159,7 +159,7 @@ ParaCOSM: A Parallel Framework for Continuous Subgraph Matching
 **CO**ntinuous  **S**ubgraph **M**atching), an efficient parallel framework for existing **Continuous Subgraph Matching** algorithms on CPU. 
 ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to two orders of magnitude faster execution, with up to 71% higher success rates on large query graph . 
 
-- [We will open source ParaCOSM at github soon](https://github.com)
+- [ParaCOSM github repo](https://github.com/SUSTech-HPCLab/ParaCOSM)
 </div>
 </div>
 
