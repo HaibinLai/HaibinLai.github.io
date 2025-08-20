@@ -154,7 +154,7 @@ ParaCOSM: A Parallel Framework for Continuous Subgraph Matching
 
 **Haibin Lai**, Sicheng Zhou, Site Fan, Zhuozhao Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://haibinlai.github.io/File.github.io/icpp25-5.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this paper, we present ParaCOSM (**Para**llel 
 **CO**ntinuous  **S**ubgraph **M**atching), an efficient parallel framework for existing **Continuous Subgraph Matching** algorithms on CPU. 
 ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to two orders of magnitude faster execution, with up to 71% higher success rates on large query graph . 
