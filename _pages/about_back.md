@@ -95,21 +95,7 @@ ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to
 
 
 
-<div style="text-align: center;">
-  <img 
-    src="../images/myCV.drawio.png" 
-    alt="Haibin's HPC Academic Journey" 
-    style="
-      width: 100%;
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-    "
-  />
-  <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
-    Figure 1: Haibin's HPC academic architecture.
-  </div>
-</div>
+
 
   <!-- ```python
      pipe = pipeline(
@@ -150,6 +136,22 @@ As shown in Figure 2, my academic architecture integrates two research applicati
   />
   <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
     Figure 2: Haibin's Main Architecture.
+  </div>
+</div>
+
+<div style="text-align: center;">
+  <img 
+    src="../images/myCV.drawio.png" 
+    alt="Haibin's HPC Academic Journey" 
+    style="
+      width: 100%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    "
+  />
+  <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
+    Figure 1: Haibin's HPC academic architecture.
   </div>
 </div>
 
