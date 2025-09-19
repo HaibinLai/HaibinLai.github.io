@@ -43,10 +43,18 @@ We present Haibin, a fourth-year undergraduate student in **Computer Science** a
 
 <!-- I have published 0 papers in system area. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-
+<!-- 
 ## Keywords
 
- High Performance Computing, Operating System, Software Engineering, Compiler
+ High Performance Computing, Operating System, Software Engineering, Compiler -->
+
+
+Sept 2022 – Present, **Southern University of Science and Technology, Undergraduate in Computer Science**
+
+- GPA: 3.70/4.0
+
+- Coursework: **Operating System(H)** 96, **Machine Learning(H)** 96
+
 
 <!-- # Area
 
