@@ -62,9 +62,29 @@ High Performance Computing (HPC) -->
 
 My research motivation stems from a deep curiosity for these "**stupid**" problems.  I find profound joy in discovering and dissecting the hidden mechanisms behind computer systems.
 
-This paper outlines the architectural evolution of my academic design, from a baseline instruction set (coursework) to custom optimization (research projects), culminating in a proposal to transition from an undergraduate compute node to a Ph. D.-scale parallel research unit, as Figure 1 shows.
 
 **"Live, travel, adventure, bless, and don’t be worry."**
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPP 2025</div><img src='images/ParaCOSM_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- [ParaCOSM: A Parallel Framework for Continuous Subgraph Matching](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
+ParaCOSM: A Parallel Framework for Continuous Subgraph Matching
+
+**Haibin Lai**, Sicheng Zhou, Site Fan, Zhuozhao Li
+
+[**Paper**](https://haibinlai.github.io/File.github.io/icpp25-5.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we present ParaCOSM (**Para**llel 
+**CO**ntinuous  **S**ubgraph **M**atching), an efficient parallel framework for existing **Continuous Subgraph Matching** algorithms on CPU. 
+ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to two orders of magnitude faster execution, with up to 71% higher success rates on large query graph . 
+
+- [ParaCOSM github repo](https://github.com/SUSTech-HPCLab/ParaCOSM)
+</div>
+</div>
+
 
 <!-- 在下面加入一张图片 -->
 <!-- ![alt text](image.png) -->
@@ -146,22 +166,6 @@ Sept 2022 – Present, **Southern University of Science and Technology, Undergra
 
 #  Publications 
 <!-- 📝 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPP 2025</div><img src='images/ParaCOSM_00.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- [ParaCOSM: A Parallel Framework for Continuous Subgraph Matching](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
-ParaCOSM: A Parallel Framework for Continuous Subgraph Matching
-
-**Haibin Lai**, Sicheng Zhou, Site Fan, Zhuozhao Li
-
-[**Paper**](https://haibinlai.github.io/File.github.io/icpp25-5.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In this paper, we present ParaCOSM (**Para**llel 
-**CO**ntinuous  **S**ubgraph **M**atching), an efficient parallel framework for existing **Continuous Subgraph Matching** algorithms on CPU. 
-ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to two orders of magnitude faster execution, with up to 71% higher success rates on large query graph . 
-
-- [ParaCOSM github repo](https://github.com/SUSTech-HPCLab/ParaCOSM)
-</div>
-</div>
 
 
 
