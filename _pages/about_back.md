@@ -49,11 +49,16 @@ We present Haibin, a fourth-year undergraduate student in **Computer Science** a
  High Performance Computing, Operating System, Software Engineering, Compiler -->
 
 
+---
+
+
 Sept 2022 – Present, **Southern University of Science and Technology, Undergraduate in Computer Science**
 
 - GPA: 3.70/4.0
 
-- Coursework: **Operating System(H)** 96, **Machine Learning(H)** 96
+- Interest
+
+<!-- - Coursework: **Operating System(H)** 96, **Machine Learning(H)** 96 -->
 
 
 <!-- # Area
@@ -124,6 +129,23 @@ ParaCOSM achieves $1.2\times$ to $30.2\times$ speedups across datasets and up to
 
 # Haibin's Main Design
 
+<div style="text-align: center;">
+  <img 
+    src="../images/myCV.drawio.png" 
+    alt="Haibin's HPC Academic Journey" 
+    style="
+      width: 100%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    "
+  />
+  <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
+    Figure 1: Haibin's HPC academic architecture.
+  </div>
+</div>
+
+
 
 As shown in Figure 2, my academic architecture integrates two research applications and multiple project-level modules. In this architecture, I am fueled by a principle I live and work by:
 
@@ -147,21 +169,6 @@ As shown in Figure 2, my academic architecture integrates two research applicati
   </div>
 </div>
 
-<div style="text-align: center;">
-  <img 
-    src="../images/myCV.drawio.png" 
-    alt="Haibin's HPC Academic Journey" 
-    style="
-      width: 100%;
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-    "
-  />
-  <div style="font-family: Times, 'Times New Roman', serif; font-size: 10pt; font-style: italic; margin-top: 5px;">
-    Figure 1: Haibin's HPC academic architecture.
-  </div>
-</div>
 
 
 # Education
