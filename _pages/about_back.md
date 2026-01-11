@@ -56,7 +56,7 @@ Sept 2022 – Present, **Southern University of Science and Technology, Undergra
 
 - GPA: 3.70/4.0
 
-- Interest
+- Interest in High Performance Computing **(HPC)** and Machine Learning Systems **(MLSys)**
 
 <!-- - Coursework: **Operating System(H)** 96, **Machine Learning(H)** 96 -->
 
