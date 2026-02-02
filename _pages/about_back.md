@@ -248,7 +248,7 @@ Sept 2022 – Present, **Southern University of Science and Technology, Undergra
 - *Sep 2022*, 2022 President's Special Scholarship
 
 ### English Skills
-- *Oct 2024*, **TOEFL**. Score: 100/120; speaking 22, listening 26, reading 30, writing 22
+- *Nov 2025*, **TOEFL**. Score: 104/120; speaking 22, listening 40, reading 30, writing 22
 - *Jun 2024*, **CET6**: 649/710
 - *Jun 2023*, **CET4**: 604/710
 - *Jul 2023*, **Georgia Institute of Technology ASP Program**
