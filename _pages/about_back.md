@@ -254,11 +254,11 @@ Sept 2022 – Present, **Southern University of Science and Technology, Undergra
 - *Jul 2023*, **Georgia Institute of Technology ASP Program**
  .  Participated in summer courses at Georgia Tech, enhancing international communication skills and gaining insights into American culture.
 
-### Techniques
+<!-- ### Techniques
 
 **Languages**: C++, C, CUDA, Java, python, Rust, SQL
 
-PostgreSQL, Docker, Linux
+PostgreSQL, Docker, Linux -->
 
 
 
