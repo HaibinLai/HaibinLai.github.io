@@ -33,7 +33,7 @@ redirect_from:
 
 <!-- I am a Junior Turing Class student at SUSTech, majoring in Computer Science. Problem-solving is my lifelong delight. I am currently participating in research in the fields of Distributed Computing, GPU Computing, and High Performance Computing at the SUSTech HPC-Lab.  -->
 
-We present Haibin, a fourth-year undergraduate student in **Computer Science** at **Southern University of Science and Technology** (SUSTech). He is currently engaged in research in Parallel Computing, Machine Learning Systems, and GPU Computing at the SUSTech HPC Lab.
+We present Haibin, a fourth-year undergraduate student in **Computer Science** at **Southern University of Science and Technology** (SUSTech). He is currently engaged in research in Distributed System and Parallel Computing at the SUSTech HPC Lab.
 
 
 <!-- 正文 -->
@@ -56,7 +56,7 @@ Sept 2022 – Present, **Southern University of Science and Technology, Undergra
 
 - GPA: 3.70/4.0
 
-- Interest in High Performance Computing **(HPC)** and Machine Learning Systems **(MLSys)**
+
 
 <!-- - Coursework: **Operating System(H)** 96, **Machine Learning(H)** 96 -->
 
